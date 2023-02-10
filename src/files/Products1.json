@@ -1,0 +1,112 @@
+[
+	{
+		"title": "Xbox",
+		"description": "Microsoft",
+		"price": 120000,
+		"thumbnail": "ruta",
+		"code": 3,
+		"stock": 7,
+		"category": "game",
+		"status": true,
+		"id": 1
+	},
+	{
+		"title": "Ps4",
+		"description": "Sony",
+		"price": 120000,
+		"thumbnail": "ruta",
+		"code": 32883,
+		"stock": 7,
+		"category": "game",
+		"status": true,
+		"id": 5
+	},
+	{
+		"title": "TvLed",
+		"description": "LG",
+		"price": 120000,
+		"thumbnail": "ruta",
+		"code": 3963,
+		"stock": 7,
+		"category": "game",
+		"status": true,
+		"id": 6
+	},
+	{
+		"title": "MP3",
+		"description": "Sanyo",
+		"price": 120000,
+		"thumbnail": "ruta",
+		"code": 96,
+		"stock": 7,
+		"category": "game",
+		"status": true,
+		"id": 7
+	},
+	{
+		"title": "Telefono",
+		"description": "LG",
+		"price": 120000,
+		"thumbnail": "ruta",
+		"code": 3963,
+		"stock": 7,
+		"category": "game",
+		"status": true,
+		"id": 9
+	},
+	{
+		"title": "celular",
+		"description": "Sanyo",
+		"price": 120000,
+		"thumbnail": "ruta",
+		"code": 96,
+		"stock": 7,
+		"category": "game",
+		"status": true,
+		"id": 10
+	},
+	{
+		"title": "Notebook",
+		"description": "LG",
+		"price": 120000,
+		"thumbnail": "ruta",
+		"code": 3963,
+		"stock": 7,
+		"category": "game",
+		"status": true,
+		"id": 11
+	},
+	{
+		"title": "PC",
+		"description": "Sanyo",
+		"price": 120000,
+		"thumbnail": "ruta",
+		"code": 96,
+		"stock": 7,
+		"category": "game",
+		"status": true,
+		"id": 12
+	},
+	{
+		"title": "procesador",
+		"description": "LG",
+		"price": 120000,
+		"thumbnail": "ruta",
+		"code": 3963,
+		"stock": 7,
+		"category": "game",
+		"status": true,
+		"id": 13
+	},
+	{
+		"title": "placa de video",
+		"description": "Sanyo",
+		"price": 120000,
+		"thumbnail": "ruta",
+		"code": 96,
+		"stock": 7,
+		"category": "game",
+		"status": true,
+		"id": 14
+	}
+]
